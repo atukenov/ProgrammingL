@@ -1,5 +1,3 @@
-package StackReverse;
-
 import java.util.Scanner;
 
 /*
